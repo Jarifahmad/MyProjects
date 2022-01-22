@@ -8,3 +8,4 @@ These are all the projects that I have worked on! <br>
 ♤ Etch-A-Sketch - (https://jarifahmad.github.io/Etch-A-Sketch/)<br>
 ♤ Calculator - (https://jarifahmad.github.io/Calculator/)<br>
 ♤ Library - (https://jarifahmad.github.io/library/)<br>
+♤ Tic-Tac-Toe - (https://jarifahmad.github.io/Tic-Tac-Toe/)<br>
