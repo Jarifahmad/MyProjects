@@ -9,3 +9,4 @@ These are all the projects that I have worked on! <br>
 ♤ Calculator - (https://jarifahmad.github.io/Calculator/)<br>
 ♤ Library - (https://jarifahmad.github.io/library/)<br>
 ♤ Tic-Tac-Toe - (https://jarifahmad.github.io/Tic-Tac-Toe/)<br>
+♤ Vue 2 Todo app - (https://github.com/Jarifahmad/vue2-todo-app) <br>
